@@ -54,8 +54,8 @@ int main() // Esta parte requiere algo de trabajo tambien
   do {
     cout << "======================================================================"
     << "\nPrograma para calcular promedios de vida de personajes del Imperium AO"
-    << "\nCreado por Sarckz\n"
-    << "\nhttp://sarckz.com.ar/\n"
+    << "\nCreado por Tobias Mallo\n"
+    << "\nhttp://tobiasmallo.wordpress.com/\n"
     << "======================================================================"
     << endl;
     
